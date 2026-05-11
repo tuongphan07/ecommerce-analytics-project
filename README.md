@@ -46,3 +46,12 @@ The dataset contains ecommerce transactions including:
 - cleaned_orders.csv → exported cleaned dataset
 
 
+## Tableau Public
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tuong.phan3177/viz/ecommerce_sales_dashboard_17783884766410/E-CommerceSalesDashboard#1)
+
+## Dashboard Preview
+<p align="center">
+  <img src="preview_dashboard.png" width="900">
+</p>
+
+
